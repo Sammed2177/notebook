@@ -1,0 +1,14 @@
+{
+  "name": "mynotebook",
+  "version": "1.0.0",
+  "description": "This is an notebook app for storing your important notes and can asccess anywhere anytime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sammed Biraje",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
